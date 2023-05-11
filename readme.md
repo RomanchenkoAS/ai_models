@@ -1,6 +1,7 @@
 # Game-AIs in python 🦾
 - Requirements : pygame
-This is a pursiut to research advansed algorythms :)
+
+This is my pursiut to research advansed algorythms :)
 
 ## Tic-tac-toe ❌⭕
 
