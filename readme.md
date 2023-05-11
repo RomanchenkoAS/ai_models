@@ -1,7 +1,7 @@
 # Game-AIs in python 🦾
 - Requirements : pygame
 
-## Tic-tac-toe
+## Tic-tac-toe ❌⭕
 
 #### Launch
     $ cd tictactoe
@@ -13,7 +13,14 @@ Though the game might be tied, since tictactoe is always a tie when played optim
 
 First move made by AI (when it plays as X) may be a little long to calculate, have patience ;)
 
-## Minesweeper
+#### Demo
+
+Here you can watch me be defeated by my own creation. Isn't life a stange place?
+<p align="center">
+<img src="https://github.com/RomanchenkoAS/ai_models/assets/119735427/98c7e322-d3eb-4e0b-b038-0fd5e5f83899" alt="alt-text">
+</p>
+
+## Minesweeper 💣
 
 #### Launch
     $ cd minesweeper
