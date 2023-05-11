@@ -15,9 +15,10 @@ First move made by AI (when it plays as X) may be a little long to calculate, ha
 
 #### Demo
 
-Here you can watch me be defeated by my own creation. Isn't life a stange place?
+Here you can watch me be defeated by my own creation. Isn't life a cruel place?
+
 <p align="center">
-<img src="https://github.com/RomanchenkoAS/ai_models/assets/119735427/98c7e322-d3eb-4e0b-b038-0fd5e5f83899" alt="alt-text">
+<img src="https://github.com/RomanchenkoAS/ai_models/assets/119735427/0c0a40d0-9bdb-49fc-86ef-7a6b8c92e469" alt="alt-text">
 </p>
 
 ## Minesweeper 💣
