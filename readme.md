@@ -13,7 +13,7 @@ This is my pursiut to research advanced algorithms :)
 This is an unbeatable AI player which calculates moves through Minimax Algorythm.
 Though the game might be tied, since tictactoe is always a tie when played optimally by both sides.
 
-First move made by AI (when it plays as X) may be a little long to calculate, have patience ;)
+First move made by AI (when it plays as X) may be a little long to calculate, have patience, it must chek all possible outcomes, which count up to more than 255k ;)
 
 #### Demo
 
