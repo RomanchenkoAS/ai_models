@@ -61,6 +61,9 @@ Oddly satisfying demo 20x20 field | 40 mines 🥴
 - Words - path to the dictionary .txt 
 - Output - (optional) path where script will generate an image with crossword solution
 
+#### Description
+This is a crossword puzzles generator. Script generate.py uses backtracking search and constraint propagation algorithms, such as node consistency and arc consistency, to find a valid assignment of words to the puzzle grid. It represents the crossword structure, words, variables, and their overlaps. The solve() function enforces consistency and backtracks to find a complete assignment. The print() and save() functions visualize and save the solved puzzle, respectively.
+
 #### Example results    
 <p align="center">
 <img src="https://github.com/RomanchenkoAS/ai_models/assets/119735427/1201e84c-4b9e-4347-9811-03586d709831" alt="alt-text">
