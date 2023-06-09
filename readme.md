@@ -25,7 +25,7 @@ Here you can watch me be defeated by my own creation. Isn't life a cruel place?
 <img src="https://github.com/RomanchenkoAS/ai_models/assets/119735427/0c0a40d0-9bdb-49fc-86ef-7a6b8c92e469" alt="alt-text">
 </p>
 
-## Minesweeper 💣
+## Minesweeper 💣💥
 
 #### Launch
     $ cd minesweeper
@@ -48,4 +48,20 @@ Short demo 8x8 field | 8 mines
 Oddly satisfying demo 20x20 field | 40 mines 🥴
 <p align="center">
 <img src="https://github.com/RomanchenkoAS/ai_models/assets/119735427/26af7b90-5f4b-4469-8750-fea1171d55ff" alt="alt-text">
+</p>
+
+
+## Crossword 💬
+
+#### Launch
+    $ cd crossword
+    $ python3 generate.py structure words [output]
+    
+- Structure - path to a structure .txt where █ (full block symbols) stand for walls and _ (underscore symbols) stand for letters
+- Words - path to the dictionary .txt 
+- Output - (optional) path where script will generate an image with crossword solution
+
+#### Example results    
+<p align="center">
+<img src="https://github.com/RomanchenkoAS/ai_models/assets/119735427/1201e84c-4b9e-4347-9811-03586d709831" alt="alt-text">
 </p>
