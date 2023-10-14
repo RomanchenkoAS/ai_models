@@ -95,7 +95,7 @@ The AI learns from playing against itself. It uses a Q-learning dictionary to st
 
 ### AI Methodology
 #### Q-learning
-Q-learning is employed to equip the AI with the capability of learning optimal actions for different states over time. It uses the following formula to update Q-values:
+Q-learning is employed to equip the AI with the capability of learning optimal actions for different states over time. It uses the following formula to update Q-values:<br>
 Q(s,a)←old value estimate+α×(new value estimate−old value estimate)
 
 where:
@@ -112,7 +112,4 @@ The training is conducted over n games, where the AI plays against itself. It co
 The AI is trained with an epsilon value to allow for some randomness in its actions during training, thus enabling it to explore various strategies.
 The AI can be deterministic during actual gameplay, where it picks the move with the highest Q-value.
 
-### Demo
-[demo will be here]
-
-Enjoy the game! Feel free to challenge the AI and test your strategic thinking! 🎲🤖
+Enjoy the game :) 🎲🤖
