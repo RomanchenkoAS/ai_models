@@ -251,7 +251,7 @@ class CrosswordCreator():
 
         `assignment` is a mapping from variables (keys) to words (values).
 
-        If no assignment is possible, retnurn None.
+        If no assignment is possible, return None.
         """
 
         var = self.select_unassigned_variable(assignment)
