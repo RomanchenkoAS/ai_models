@@ -112,3 +112,7 @@ The training is conducted over n games, where the AI plays against itself. It co
 The AI is trained with an epsilon value to allow for some randomness in its actions during training, thus enabling it to explore various strategies.
 The AI can be deterministic during actual gameplay, where it picks the move with the highest Q-value.
 
+### Demo
+[demo will be here]
+
+Enjoy the game! Feel free to challenge the AI and test your strategic thinking! 🎲🤖
